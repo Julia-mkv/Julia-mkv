@@ -1,8 +1,8 @@
 Hi, I am Julia! :wave:
 
-As a Business Intelligence Analyst, I specialize in conducting ad-hoc analyses and validating data quality to continuously improve reporting accuracy. My role involves reporting financial results to C-level executives, which empowers strategic decision-making across the organization.
+As a Business Intelligence Analyst, I specialize in conducting ad-hoc analyses and validating data quality to continuously improve reporting accuracy. My current role involves reporting financial results to C-level executives, which empowers strategic decision-making across the organization.
 
-Current Duties:
+Responsibilities:
 - Collaborate with cross-functional teams to optimize payment processes, identify bottlenecks, and implement solutions that enhance operational efficiency.
 - Implement effective payment tracking systems, maintaining up-to-date records and reducing discrepancies.
 - Perform in-depth analysis of complex datasets using Python.
